@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.13">
+	<ConfigVersions>
+		<Metadata name="CommonForm.ПолучитьДанные" id="e5ab5fb1-21c8-4c9f-ac14-f69ce0bc54c3" configVersion="0594b4a71b63074996e58596bd80e56a00000000"/>
+		<Metadata name="CommonForm.ПолучитьДанные.Form" id="e5ab5fb1-21c8-4c9f-ac14-f69ce0bc54c3.0" configVersion="cccce8ae5402a54582e6252c9dc3567c00000000"/>
+		<Metadata name="CommonModule.КоннекторHTTP" id="0de769ac-3ba0-4f8d-8eb9-7a0cb5aef6a0" configVersion="7808fc7ad63ed04797c55d6774a9cbfa00000000"/>
+		<Metadata name="CommonModule.КоннекторHTTP.Module" id="0de769ac-3ba0-4f8d-8eb9-7a0cb5aef6a0.0" configVersion="4cf0fcb9e82a2c4b9ee1fdca451345cc00000000"/>
+		<Metadata name="Configuration.ОсновноеПриложение" id="bebc97fc-63ca-4267-97c1-20632455c62e" configVersion="6e1683a157e9874aabfcf22f6404e01b00000000"/>
+		<Metadata name="Configuration.ОсновноеПриложение.ClientApplicationInterface" id="297d1c0a-1e60-4f15-8bbe-dc91ed987f50.b" configVersion="c93a0b1117067c48983137de6fba4e6b00000000"/>
+		<Metadata name="Configuration.ОсновноеПриложение.HomePageWorkArea" id="297d1c0a-1e60-4f15-8bbe-dc91ed987f50.8" configVersion="9b4158cf202e1f429d4d2de3721881c200000000"/>
+		<Metadata name="InformationRegister.Фотографии" id="9eea99d6-5659-46df-a78d-0375f99dc0a9" configVersion="79f3f6f1cb77fa479fc93c6a4cfb709600000000">
+			<Metadata name="InformationRegister.Фотографии.Dimension.ДатаСобытия" id="6960ff3f-129d-40f0-b4b1-d551a5b5598c"/>
+			<Metadata name="InformationRegister.Фотографии.Resource.Данные" id="9ee534f6-1446-436c-8eb3-df609e2d303a"/>
+			<Metadata name="InformationRegister.Фотографии.Dimension.Идентификатор" id="b22004cd-d246-4279-ab61-be31b68869fe"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="922bf7ac-a408-42f0-9770-c30560dc7df1" configVersion="67854ada643eba489db1f3ec27b4ed1d00000000"/>
+		<Metadata name="Style.Основной" id="396b6122-fe28-4f59-b879-3c810b7f2b79" configVersion="742e01b1ea39bd419981be86845852b000000000"/>
+		<Metadata name="Style.Основной.Style" id="396b6122-fe28-4f59-b879-3c810b7f2b79.0" configVersion="e183a4845d43f1449704955f518a5b5a00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

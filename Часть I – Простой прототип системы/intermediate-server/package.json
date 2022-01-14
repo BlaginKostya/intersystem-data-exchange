@@ -1,0 +1,19 @@
+{
+  "name": "intermediate-server",
+  "version": "1.0.0",
+  "description": "Промежуточный сервер для обработки поступающих данных от мобильных приложений и последующей передачи в 1С.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blagin Kostya",
+  "license": "ISC",
+  "homepage": "https://blagin.ru",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "dotenv": "^11.0.0",
+    "express": "^4.17.2"
+  }
+}
